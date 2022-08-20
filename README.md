@@ -3,8 +3,16 @@
 
   - 🚀 https://martin-b-07e5.github.io/tp1
   - 🚀 https://martin-b-07e5.github.io/tp2
-  - 👷 https://martin-b-07e5.github.io/tp4-react
-  - 👷 https://martin-b-07e5.github.io/tp4-react-v5
-  - 👷 https://martin-b-07e5.github.io/tp4-react-v6
 
+  themoviedb
+  - 🚀 https://martin-b-07e5.github.io/tp4-react-v5/
+  - 🚀 https://martin-b-07e5.github.io/tp4-react-v6/
+  - 🚀 https://martin-b-07e5.github.io/movies-react-v6--debounce
+
+  
+  
+  newsapi (clonarla y ejecutarla localmente)(no funciona con githubPages)
+  - 🚀 https://github.com/martin-b-07e5/news-app-v0.2
+  
+  portfolio
   - 👷 https://martin-b-07e5.github.io/portfolio
