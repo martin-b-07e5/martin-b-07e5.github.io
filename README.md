@@ -10,9 +10,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: <a href="https://tinyurl.com/yc8c53kw" title="email" target="_blank">by email</a>
 --------------------------------------------------
-# 👇 portfolio
-- https://martin-b-07e5.github.io/portfolio
---------------------------------------------------
 # Python + Django
 - https://github.com/martin-b-07e5/blog1
 
@@ -25,6 +22,9 @@
 --------------------------------------------------
 # Java exercises
 - https://github.com/martin-b-07e5/java2022/tree/main/src/main/java
+
+# 👇 portfolio
+- https://martin-b-07e5.github.io/portfolio
 --------------------------------------------------
 # JS practice
 - 🚀 https://martin-b-07e5.github.io/tp1
