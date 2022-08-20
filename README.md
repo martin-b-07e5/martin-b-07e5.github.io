@@ -1,4 +1,4 @@
-<pre>
+<code>
 # MB
  <a href="https://martin-b-07e5.github.io/">
   - 🌱 https://martin-b-07e5.github.io/
@@ -27,4 +27,4 @@
 <a href="https://martin-b-07e5.github.io/portfolio">
   - 👷 https://martin-b-07e5.github.io/portfolio
 </a>
-</pre>
+</code>
