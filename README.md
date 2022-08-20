@@ -1,10 +1,10 @@
 <html>
-# MB
+# MB <br>
  <a href="https://martin-b-07e5.github.io/">
   - 🌱 https://martin-b-07e5.github.io/
  </a>
 <hr>
-## js
+## js <br>
 <a href="https://martin-b-07e5.github.io/tp1">
   - 🚀 https://martin-b-07e5.github.io/tp1
 </a>
@@ -13,17 +13,17 @@
   - 🚀 https://martin-b-07e5.github.io/tp2
 </a>
 <hr>
-## themoviedb
+## themoviedb <br>
 <a href="https://martin-b-07e5.github.io/movies-react-v6--debounce">
   - 🚀 https://martin-b-07e5.github.io/movies-react-v6--debounce
 </a>
 <hr>
-##newsapi (no funciona con GHPages) (clonarla y ejecutarla localmente)
+##newsapi (no funciona con GHPages) (clonarla y ejecutarla localmente) <br>
 <a href="https://github.com/martin-b-07e5/news-app-v0.2">
   - 🚀 https://github.com/martin-b-07e5/news-app-v0.2
 </a>
 <hr>  
-## portfolio
+## portfolio <br>
 <a href="https://martin-b-07e5.github.io/portfolio">
   - 👷 https://martin-b-07e5.github.io/portfolio
 </a>
