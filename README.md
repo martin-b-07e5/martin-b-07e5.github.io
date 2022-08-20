@@ -5,8 +5,6 @@
   - 🚀 https://martin-b-07e5.github.io/tp2
 
   themoviedb
-  - 🚀 https://martin-b-07e5.github.io/tp4-react-v5/
-  - 🚀 https://martin-b-07e5.github.io/tp4-react-v6/
   - 🚀 https://martin-b-07e5.github.io/movies-react-v6--debounce
 
   
