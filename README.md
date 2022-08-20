@@ -9,7 +9,7 @@
 
   
   
-  newsapi (clonarla y ejecutarla localmente)(no funciona con githubPages)
+  newsapi (clonarla y ejecutarla localmente)(no funciona con GHPages)
   - 🚀 https://github.com/martin-b-07e5/news-app-v0.2
   
   portfolio
