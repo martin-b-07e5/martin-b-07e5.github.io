@@ -27,8 +27,8 @@
 - https://martin-b-07e5.github.io/java2022-portfolio/
 --------------------------------------------------
 # JS practice (2022)✔
-- 🚀 https://martin-b-07e5.github.io/tp1
-- 🚀 https://martin-b-07e5.github.io/tp2
+- 🚀 https://martin-b-07e5.github.io/react2022/tp1/
+- 🚀 https://martin-b-07e5.github.io/react2022/tp2/
 
 # React practice (2022)✔
 ## themovieDB✔
