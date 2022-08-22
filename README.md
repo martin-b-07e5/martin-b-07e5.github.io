@@ -6,7 +6,7 @@
     - JS+React. I consumed some APIs with React (themovieDB and newsApi).
     - Testing. Course based on CTFL - ISTQB  ("Certified Tester - Foundation Level, Version 2018" - International Software Testing Qualifications Board).
     - Java. I created an API and made some test over it.
-- 👷 I'm learnign (2022-08 - 2023-01) Angular - Java - devOps.
+- 👷 I'm learnign (2022-08 - 2023-01) JS - Angular - Java - devOps.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: <a href="https://tinyurl.com/yc8c53kw" title="email" target="_blank">by email</a>
 --------------------------------------------------
