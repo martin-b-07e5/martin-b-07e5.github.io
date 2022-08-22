@@ -1,7 +1,8 @@
 # Presentation
 - 👋 Hi, I’m Martín B.
 - 👀 I’m interested in ... (see below)
-- 🌱 I learned (2021) a little bit about ✔Python+Django (I made a blog with Django) ...
+- 🌱 I learned (2021) a little bit about
+    - ✔Python+Django (I made a blog with Django) ...
 - 🌱 I've been learning (2022) a little more about
     - ✔JS+React. I consumed some APIs with React (themovieDB and newsApi).
     - ✔Testing. Course based on CTFL - ISTQB  ("Certified Tester - Foundation Level, Version 2018" - International Software Testing Qualifications Board).
