@@ -24,7 +24,7 @@
 # Java exercises (2022)✔
 - https://github.com/martin-b-07e5/java2022/tree/main/src/main/java
 
-# 👇 portfolio✔
+# Portfolio✔
 - https://martin-b-07e5.github.io/java2022-portfolio/
 --------------------------------------------------
 # JS practice (2022)✔
