@@ -27,12 +27,12 @@
 - https://martin-b-07e5.github.io/java2022-portfolio/
 --------------------------------------------------
 # JS practice (2022)✔
-- 🚀 https://martin-b-07e5.github.io/react2022/tp1/
-- 🚀 https://martin-b-07e5.github.io/react2022/tp2/
+- 🚀 https://martin-b-07e5.github.io/react2022--tp1-2/tp1/
+- 🚀 https://martin-b-07e5.github.io/react2022--tp1-2/tp2/
 
 # React practice (2022)✔
 ## themovieDB✔
-- 🚀 https://martin-b-07e5.github.io/movies-react-v6--debounce
+- 🚀 https://martin-b-07e5.github.io/react2022--movies-react-v6--debounce/
 
 # React Final Project (2022)✔
 ## newsAPI✔
